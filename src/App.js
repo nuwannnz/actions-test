@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          React app with github actions to build
+          React app with github actions to build on new PR
         </p>
         <a
           className="App-link"
